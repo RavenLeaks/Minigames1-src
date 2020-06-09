@@ -1,0 +1,30 @@
+package me.wazup.kitbattle;
+
+public enum Ability {
+   KANGAROO,
+   HADES,
+   SWITCHER,
+   THOR,
+   STOMPER,
+   SPIDERMAN,
+   PRISONER,
+   CLIMBER,
+   DRAGON,
+   SUICIDAL,
+   PHANTOM,
+   TIMELORD,
+   FISHERMAN,
+   BURROWER,
+   ZEN,
+   VIPER,
+   MONK,
+   HULK,
+   RIDER,
+   SUMMONER,
+   DRACULA,
+   SOUPER,
+   BANE,
+   SUNDER,
+   CENTAUR,
+   BLINKER;
+}
